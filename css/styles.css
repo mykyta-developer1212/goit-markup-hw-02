@@ -1,0 +1,290 @@
+
+* {
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+   font-family: "Raleway", sans-serif;
+   color: #2E2F42;
+   color: #434455;
+   background-color: #FFFFFF;
+}
+
+.font-nav {
+   font-weight: 500; 
+}
+
+.wrapper-logo {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+
+.std {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+.std:hover {
+    color: #404bbf;
+}
+
+.std:focus {
+    color: #404bbf;
+}
+
+.a-href {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.a-href:hover {
+    color: #404bbf;
+}
+
+.a-href:focus {
+    color: #404bbf;
+}
+
+.color-nav {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.color-nav-two {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+    letter-spacing: 0.02em;
+}
+
+.color-nav-two:hover {
+    color: #404bbf;
+}
+
+.color-nav:focus {
+    color: #404bbf;
+}
+
+.color-ul-two {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 350;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.color-nav:hover {
+    color: #404bbf;
+}
+
+.color-nav:focus {
+    color: #404bbf;
+}
+
+.studio-color {
+    color: #2E2F42;
+}
+
+.mail-to {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+.mail-to:hover {
+    color: #404bbf;
+}
+
+.mail-to:focus {
+    color: #404bbf;
+}
+
+.contacts-info {
+    font-style: normal;
+}
+
+.color-web {
+    color: #4D5AE5;
+}
+
+.studio-color {
+    color: #2E2F42;
+}
+
+.color-studio {
+    color: #2E2F42;
+}
+
+.color-portfolio {
+    color: #2E2F42;
+}
+
+.color-contacts {
+    color: #2E2F42;
+}
+
+.develops-info {
+    background-color: #FFFFFF;
+}
+
+.sct-one {
+    background-color: #2e2f42;
+}
+
+.level-one {
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.btn {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #404BBF;
+}
+
+.btn:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.level-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.level-three-stn-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.stn-two-p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.level-three {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.develops-info {
+    background-color: #F4F4FD;
+}
+
+.level-two-stn-three {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.elements-stn-three {
+    background-color: #FFFFFF;
+}
+
+.level-three-stn-on {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.elements-stn-three {
+    background-color: #FFFFFF;
+}
+
+.prgf-stn-three {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.level-two-stn-four {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42
+}
+
+.level-three-stn-four {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.prgf-stn-four {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.final-part {
+    background-color: #2e2f42;
+}
+
+.logo-foot {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-two {
+    color: #f4f4fd;
+} 
+
+.prgf-foot {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
